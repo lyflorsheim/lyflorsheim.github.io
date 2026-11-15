@@ -14,8 +14,8 @@ title                    : "Lucas Y. Florsheim"
 name                     : &name "Lucas Y. Florsheim"
 description              : &description "Evolutionary Biology | Genomics | Speciation"
 url                      : "https://lyflorsheim.github.io"
-baseurl                  : "/academic-pages-test"
-repository               : "lyflorsheim/academic-pages-test"
+baseurl                  : ""
+repository               : "lyflorsheim/lyflorsheim.github.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
