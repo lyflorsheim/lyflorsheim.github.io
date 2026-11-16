@@ -21,6 +21,9 @@ I also use historical museum specimens to investigate evolutionary change and hy
 ## Museum Work
 
 I am interested in the role of natural history collections in evolutionary research, and museums as effective forms of science communication and outreach. I have worked at several natural history museums including the Denver Museum of Nature and Science and the Bell Museum at the University of Minnesota. 
+
+I am currently earning a Professional Certificate in Museology from the Department of Museum and Field Studies at CU.
+
 [Learn more about my museum work]({{ '/museum/' | relative_url }})
 
 ## Curriculum Vitae
